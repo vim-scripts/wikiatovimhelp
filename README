@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3683
+
+Aims to Convert Articles on vimwikia website into vim helpfiles.
+
+1/ Open an html article from vimwikia website into Vim
+2/ Launch this command :TOVIMHELP
+
+
